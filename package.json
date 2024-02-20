@@ -1,0 +1,10 @@
+{
+  "name": "born_app_monterail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dilnoza Ergasheva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
